@@ -8,6 +8,16 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
   <summary>Contributions in chronological order (click to expand)</summary>
 
 <!-- toc -->
+ 
 * **Maps**
-  * Day 01: [Points](contributions/Day01_Points/Day01_points.png) 
+* Day 01: [Points](contributions/Day01_Points)
+
 </details>
+
+***
+
+## Day 01 | Points: [Bike Collisions](contributions/Day01_Points/)
+
+![Bike Collisions](contributions/Day01_Points/Day01_points.png)
+
+***
