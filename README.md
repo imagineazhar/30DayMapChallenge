@@ -18,6 +18,6 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 
 ## Day 01 | Points: [Bike Collisions](https://public.tableau.com/app/profile/m.azhar/viz/BikeCollisionsinLondon30DaysMapChallengePoints/Day_01Points)
 
-![Bike Collisions](contributions/Day01_Points/Day01_points.png)
+![Bike Collisions](contributions/01-Points/01-points.png)
 
 ***
