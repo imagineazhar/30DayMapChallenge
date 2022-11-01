@@ -1,5 +1,4 @@
-# 30DayMapChallenge 2022
-
+# 30DayMapChallenge
 My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/status/1576650170535936001?s=20&t=YH8ZcCe1Mf5W2E-hugYRXg)  by Topi Tjukanov.
 
 ![./data/cover.jpg](https://github.com/imagineazhar/30DayMapChallenge2022/blob/main/data/cover.jpg)
@@ -16,7 +15,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 
 ***
 
-## Day 01 | Points: [Bike Collisions](contributions/Day01_Points/)
+## Day 01 | Points: [Bike Collisions](https://public.tableau.com/app/profile/m.azhar/viz/BikeCollisionsinLondon30DaysMapChallengePoints/Day_01Points)
 
 ![Bike Collisions](contributions/Day01_Points/Day01_points.png)
 
