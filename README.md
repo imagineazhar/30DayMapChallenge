@@ -9,7 +9,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 
 <!-- toc -->
  
-* **Maps**
+**Maps**
 * Day 01: [Points](contributions/Day01_Points)
 
 </details>
