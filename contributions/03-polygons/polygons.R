@@ -1,8 +1,7 @@
 library(tidyverse)
-library(ggtext)
+library(sf)
 library(ggrepel)
 library(osmdata)
-library(sf)
 library(sysfonts)
 library(showtext)
 
@@ -15,28 +14,36 @@ showtext_auto()
 title_font <- "title_font"
 
 
+# ------ Color palette ------ 
+
+bg_color<-'#16324F'
+shape_color<-'#2A628F'
+road_color<-'#46B3FF'
+parks<-'#54B66F'
+
+
 # ------ Get Data ------ 
 
-#get coord plot for Staten Island
+# Coordinates  for London
 coords<-getbb("London")
 
-#get polygon shape
+# Select London Polygon
 shape <- getbb("london",  format_out = "sf_polygon")
 shape<-shape[1,]
 
-#gather main streets
-streets <- coords|>
+# Roads data
+roads <- coords|>
   opq()|>
   add_osm_feature(key = "highway", 
                   value = c("motorway", "primary", 
                             "secondary", "tertiary")) |>
   osmdata_sf()
 
-#eliminate streets outside of london shape
-streets<-streets$osm_lines|>
+# Filter Road for London
+roads<-roads$osm_lines|>
   st_intersection(shape)
 
-
+# get leisure areas
 leisure <- coords|>
   opq()|>
   add_osm_feature(key = "leisure") |>
@@ -46,17 +53,11 @@ leisure_poly<-leisure$osm_polygons|>
   st_intersection(shape)
 
 
-# ------ Color Pallet ------ 
-bg_color<-'#16324F'
-shape_color<-'#2A628F'
-road_color<-'#46B3FF'
-parks<-'#54B66F'
-
 # ------ Map ------ 
 
 ggplot()+
   geom_sf(data=shape, color=road_color, fill=shape_color)+
-  geom_sf(data = streets,
+  geom_sf(data = roads,
           inherit.aes = FALSE,
           color = road_color,
           size = .4)+
@@ -90,5 +91,3 @@ showtext_opts(dpi = 320)
 ggsave("02-polygons.png", height = 8,
        width = 10, dpi=320)  
 showtext_auto(FALSE)
-
-
