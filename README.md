@@ -31,7 +31,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 
 ***
 
-## Day 02 | [Polygon](contributions/03-polygons)
+## Day 03 | [Polygon](contributions/03-polygons)
 
 ![Parks in London](contributions/03-polygons/02-polygons.png)
 
