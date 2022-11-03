@@ -12,7 +12,8 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 **Maps**
 
 * Day 01: [Points](contributions/Day01_Points)
-* Day 02: [lines](contributions/02-Lines)
+* Day 02: [Lines](contributions/02-Lines)
+* Day 03: [Polygons](contributions/02-Lines)
 
 </details>
 
@@ -27,5 +28,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ## Day 02 | [lines](contributions/02-Lines/)
 
 ![Bike Collisions](contributions/02-Lines/02-lines.png)
+
+***
+
+## Day 02 | [Polygon](contributions/03-polygons)
+
+![Parks in London](contributions/03-polygons/02-polygons.png)
 
 ***
