@@ -17,6 +17,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 04: [Green](contributions/04-Green)
 * Day 05: [Ukraine](https://public.tableau.com/app/profile/m.azhar/viz/UkrainePorts30DayMapChallenge/ports)
 * Day 06: [Network](contributions/06-Network)
+* Day 07: [Raster](contributions/07-Raster)
 
 </details>
 
@@ -55,5 +56,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ## Day 06 | [Network](contributions/06-Network/)
 
 ![Network](contributions/06-Network/06-network.png)
+
+***
+
+## Day 07 | [Raster](contributions/07-Raster)
+
+![Raster](contributions/07-Raster/raster.png)
 
 ***
