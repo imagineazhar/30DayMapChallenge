@@ -28,7 +28,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 
 ![Bike Collisions](contributions/01-Points/01-points.png)
 
-***OpenStreetMap
+***
 
 ### Day 02 | [lines](contributions/02-Lines/)
 
