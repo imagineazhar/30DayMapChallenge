@@ -19,6 +19,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 06: [Network](contributions/06-Network)
 * Day 07: [Raster](contributions/07-Raster)
 * Day 08: [OpenStreetMap](contributions/08-OpenStreetMap)
+* Day 09: [Raster](contributions/09-space)
 
 </details>
 
@@ -69,5 +70,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 08 | [OpenStreetMap](contributions/08-OpenStreetMap)
 
 ![OpenStreetMap](contributions/08-OpenStreetMap/08-osm.png)
+
+***
+
+### Day 09 | [Space](contributions/09-space)
+
+![Space](contributions/09-space/09-space.png)
 
 ***

@@ -98,7 +98,7 @@ ggplot()+
           fill=park_color,
           color=park_color)+
   labs(
-    caption = "<span style='font-size: 30px;margin-bottom: 35px;'>PAKISTAN</span><br><span style='font-size:85px;'>ISLAMABAD</span><br><br><span style='font-size:35px;'>33° 68' N - 73° 04' W</span><br><br>
+    caption = "<span style='font-size: 30px;margin-bottom: 35px;'>PAKISTAN</span><br><span style='font-size:85px;'>ISLAMABAD</span><br><br><span style='font-size:35px;'>33° 68' N - 73° 04' E</span><br><br>
        <span style='font-size:14px;'>Data : OpenStreetMap  **  Graphic: @imagineazhar</span>"
   ) +
   theme_void()+
@@ -110,7 +110,6 @@ ggplot()+
     plot.background = element_rect(fill=bg_color, color=NA),
     plot.margin = margin(b=20)
   )
-
 
 
 # ------ Save Plot ------ 
