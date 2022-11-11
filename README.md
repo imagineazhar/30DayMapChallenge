@@ -21,6 +21,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 08: [OpenStreetMap](contributions/08-OpenStreetMap)
 * Day 09: [Raster](contributions/09-space)
 * Day 10: [A Bad Map](contributions/10-A_Bad_Map)
+* Day 11: [Red](contributions/11-Red)
 
 </details>
 
@@ -83,5 +84,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 10 | [A Bad Map](https://tabsoft.co/3UoHMIl)
 
 ![Disputed Areas in Asia](contributions/10-A_Bad_Map/Disputed%20Areas%20Asia.png)
+
+***
+
+### Day 11 | [Red](contributions/11-Red)
+
+![City of Islamabad](contributions/11-Red/11-red.png)
 
 ***
