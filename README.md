@@ -22,6 +22,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 09: [Raster](contributions/09-space)
 * Day 10: [A Bad Map](contributions/10-A_Bad_Map)
 * Day 11: [Red](contributions/11-Red)
+* Day 12: [Scale](https://tabsoft.co/3O4CZK8)
 
 </details>
 
@@ -90,5 +91,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 11 | [Red](contributions/11-Red)
 
 ![City of Islamabad](contributions/11-Red/11-red.png)
+
+***
+
+### Day 12 | [Scale](https://tabsoft.co/3O4CZK8)
+
+![Karachi](contributions/12-Scale/12-Scale.png)
 
 ***
