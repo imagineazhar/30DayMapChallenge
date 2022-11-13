@@ -23,6 +23,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 10: [A Bad Map](contributions/10-A_Bad_Map)
 * Day 11: [Red](contributions/11-Red)
 * Day 12: [Scale](https://tabsoft.co/3O4CZK8)
+* Day 13: [A 5 Minutes Map](contributions/13-%20A%205%20Minutes%20Map)
 
 </details>
 
@@ -97,5 +98,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 12 | [Scale](https://tabsoft.co/3O4CZK8)
 
 ![Karachi](contributions/12-Scale/12-Scale.png)
+
+***
+
+### Day 13 | [A 5 minutes Map](contributions/13-%20A%205%20Minutes%20Map)
+
+![World Rivers](contributions/13-%20A%205%20Minutes%20Map/world.png)
 
 ***
