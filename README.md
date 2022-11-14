@@ -24,6 +24,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 11: [Red](contributions/11-Red)
 * Day 12: [Scale](https://tabsoft.co/3O4CZK8)
 * Day 13: [A 5 Minutes Map](contributions/13-%20A%205%20Minutes%20Map)
+* Day 14: [Hexagons](https://tabsoft.co/3hDCQRy)
 
 </details>
 
@@ -104,5 +105,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 13 | [A 5 minutes Map](contributions/13-%20A%205%20Minutes%20Map)
 
 ![World Rivers](contributions/13-%20A%205%20Minutes%20Map/world.png)
+
+***
+
+### Day 14 | [Hexagons](https://tabsoft.co/3hDCQRy)
+
+![US Congress Fundraising](contributions/14-Hexagons/14-US_congress_hexagons.png)
 
 ***
