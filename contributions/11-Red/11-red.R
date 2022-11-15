@@ -28,13 +28,6 @@ shape <- getbb("Islamabad","," ,"PK",  format_out = "sf_polygon")
 shape<-shape[1,]
 
 
-city_coords <- tibble(address = "Islamabad, PK")|>
-  tidygeocoder::geocode(address, method = 'osm', long = long, lat = lat)
-
-long <- city_coords$long
-lat<- city_coords$lat
-
-
 # ------ Map ------ 
 
 ggplot()+

@@ -25,6 +25,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 12: [Scale](https://tabsoft.co/3O4CZK8)
 * Day 13: [A 5 Minutes Map](contributions/13-%20A%205%20Minutes%20Map)
 * Day 14: [Hexagons](https://tabsoft.co/3hDCQRy)
+* Day 15: [Food and Drink](https://tabsoft.co/3O6H402)
 
 </details>
 
@@ -111,5 +112,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 14 | [Hexagons](https://tabsoft.co/3hDCQRy)
 
 ![US Congress Fundraising](contributions/14-Hexagons/14-US_congress_hexagons.png)
+
+***
+
+### Day 15 | [Food and Drink](https://tabsoft.co/3O6H402)
+
+![World map of Caloric Supply](contributions/15-Food/15-world-map-calories.png)
 
 ***
