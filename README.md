@@ -26,6 +26,8 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 13: [A 5 Minutes Map](contributions/13-%20A%205%20Minutes%20Map)
 * Day 14: [Hexagons](https://tabsoft.co/3hDCQRy)
 * Day 15: [Food and Drink](https://tabsoft.co/3O6H402)
+* Day 16: [Minimal](https://tabsoft.co/3UD4UTI)
+* Day 17: [A map without a Computer](contributions/17-a-map-without-computer)
 
 </details>
 
@@ -118,5 +120,17 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 15 | [Food and Drink](https://tabsoft.co/3O6H402)
 
 ![World map of Caloric Supply](contributions/15-Food/15-world-map-calories.png)
+
+***
+
+### Day 16 | [Minimal](https://tabsoft.co/3UD4UTI)
+
+![Radio Stations USA](contributions/16-Minimal/16-radio-minimal.png)
+
+***
+
+### Day 17 | [A map without a Computer](contributions/17-a-map-without-computer)
+
+![My Nieghborhood](contributions/17-a-map-without-computer/17-No-computer.png)
 
 ***
