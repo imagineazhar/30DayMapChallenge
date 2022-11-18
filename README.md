@@ -21,13 +21,14 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 08: [OpenStreetMap](contributions/08-OpenStreetMap)
 * Day 09: [Raster](contributions/09-space)
 * Day 10: [A Bad Map](contributions/10-A_Bad_Map)
-* Day 11: [Red](contributions/11-Red)
+* Day 11: [Colour Friday: Red](contributions/11-Red)
 * Day 12: [Scale](https://tabsoft.co/3O4CZK8)
 * Day 13: [A 5 Minutes Map](contributions/13-%20A%205%20Minutes%20Map)
 * Day 14: [Hexagons](https://tabsoft.co/3hDCQRy)
 * Day 15: [Food and Drink](https://tabsoft.co/3O6H402)
 * Day 16: [Minimal](https://tabsoft.co/3UD4UTI)
 * Day 17: [A map without a Computer](contributions/17-a-map-without-computer)
+* Day 18: [Colour Friday: Blue](contributions/18-blue)
 
 </details>
 
@@ -132,5 +133,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 17 | [A map without a Computer](contributions/17-a-map-without-computer)
 
 ![My Nieghborhood](contributions/17-a-map-without-computer/17-No-computer.png)
+
+***
+
+### Day 18 | [Blue](contributions/18-blue)
+
+![Bathy-PK](contributions/18-blue/18-bathmetry.png)
 
 ***
