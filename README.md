@@ -29,6 +29,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 16: [Minimal](https://tabsoft.co/3UD4UTI)
 * Day 17: [A map without a Computer](contributions/17-a-map-without-computer)
 * Day 18: [Colour Friday: Blue](contributions/18-blue)
+* Day 19: [Globe](contributions/19-Globe)
 
 </details>
 
@@ -139,5 +140,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 18 | [Blue](contributions/18-blue)
 
 ![Bathy-PK](contributions/18-blue/18-bathmetry.png)
+
+***
+
+### Day 19 | [Globe](contributions/19-Globe)
+
+![Meteorite landings](contributions/19-Globe/19-globe-meteorite.png)
 
 ***
