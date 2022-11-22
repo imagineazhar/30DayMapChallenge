@@ -72,6 +72,6 @@ ggplot(world)+
 # ------ Save Plot ------ 
 
 showtext_opts(dpi = 320) 
-ggsave("raster.png", height = 8,
-       width = 10, dpi=320)  
+ggsave("19-globe-meteorite.png", height = 10,
+       width = 8, dpi=320)  
 showtext_auto(FALSE)
