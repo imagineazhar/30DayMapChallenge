@@ -31,6 +31,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 18: [Colour Friday: Blue](contributions/18-blue)
 * Day 19: [Globe](contributions/19-Globe)
 * Day 21: [Kontur Population](contributions/21-Kontur_Population)
+* Day 22: [NULL](contributions/22-NULL)
 
 </details>
 
@@ -153,5 +154,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 21 | [Kontur Population](contributions/21-Kontur_Population)
 
 ![Population Desnisty](contributions/21-Kontur_Population/21-population.png)
+
+***
+
+### Day 22 | [NULL](contributions/22-NULL)
+
+![The NULL Island](contributions/22-NULL/22-null-island.png)
 
 ***
