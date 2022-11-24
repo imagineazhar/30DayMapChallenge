@@ -33,6 +33,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 21: [Kontur Population](contributions/21-Kontur_Population)
 * Day 22: [NULL](contributions/22-NULL)
 * Day 23: [Movement](contributions/23-Movement)
+* Day 24: [Fantasy](https://tabsoft.co/3EZ8cLF)
 
 </details>
 
@@ -167,5 +168,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 23 | [Movement](contributions/23-Movement)
 
 ![Major shipping Lanes](contributions/23-Movement/23-shipping-lanes.png)
+
+***
+
+### Day 24 | [Fantasy](https://tabsoft.co/3EZ8cLF)
+
+![Middle Earth](contributions/24-Fantasy/24-middle-earth.png)
 
 ***
