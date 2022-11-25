@@ -34,6 +34,7 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 22: [NULL](contributions/22-NULL)
 * Day 23: [Movement](contributions/23-Movement)
 * Day 24: [Fantasy](https://tabsoft.co/3EZ8cLF)
+* Day 25: [Colour Firday: Two Colours](contributions/25-Two-Colors)
 
 </details>
 
@@ -174,5 +175,11 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 ### Day 24 | [Fantasy](https://tabsoft.co/3EZ8cLF)
 
 ![Middle Earth](contributions/24-Fantasy/24-middle-earth.png)
+
+***
+
+### Day 25 | [Two Colors](contributions/25-Two-Colors)
+
+![Blue](contributions/25-Two-Colors/25-isb-2.png) ![Yellow](contributions/25-Two-Colors/25-isb-1.png)
 
 ***
