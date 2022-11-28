@@ -37,8 +37,14 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 25: [Colour Firday: Two Colours](contributions/25-Two-Colors)
 * Day 26: [Islands](contributions/26-Islands)
 * Day 27: [Music](https://tabsoft.co/3XNeSEa)
+* Day 28: [3d](contributions/28-3D)
 
 </details>
+
+***
+### Day 28 | [3D](contributions/28-3D)
+
+![Gilgit](contributions/28-3D/28-Gilgit-3d.png)
 
 ***
 
