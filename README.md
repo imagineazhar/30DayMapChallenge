@@ -38,10 +38,18 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 26: [Islands](contributions/26-Islands)
 * Day 27: [Music](https://tabsoft.co/3XNeSEa)
 * Day 28: [3d](contributions/28-3D)
+* Day 29: [Out of your comfort zone](contributions/29-Out_of_my_comfort_zone)
+
 
 </details>
 
 ***
+### Day 29 | [Out of Your Comfort Zone](contributions/29-Out_of_my_comfort_zone)
+
+![scene](contributions/29-Out_of_my_comfort_zone/29-scene.png)
+
+***
+
 ### Day 28 | [3D](contributions/28-3D)
 
 ![Gilgit](contributions/28-3D/28-Gilgit-3d.png)
