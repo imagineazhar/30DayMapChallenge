@@ -39,11 +39,18 @@ My contributions to the [#30DayMapChallenge 2022](https://twitter.com/tjukanov/s
 * Day 27: [Music](https://tabsoft.co/3XNeSEa)
 * Day 28: [3d](contributions/28-3D)
 * Day 29: [Out of your comfort zone](contributions/29-Out_of_my_comfort_zone)
+* Day 30: [Remix](https://tabsoft.co/3XLjt9W)
 
 
 </details>
 
 ***
+### Day 30 | [Remix](https://tabsoft.co/3XLjt9W)
+
+![Trails](contributions/30-remix/30-trail-remix.png)
+
+***
+
 ### Day 29 | [Out of Your Comfort Zone](contributions/29-Out_of_my_comfort_zone)
 
 ![scene](contributions/29-Out_of_my_comfort_zone/29-scene.png)
